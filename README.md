@@ -16,6 +16,7 @@ The goal is to uncover trends in:
 - Matplotlib
 - Seaborn
 - Numpy
+- JupyterLab
 
 ## 🔍 Key Insights
 - Identified most frequently appearing authors
